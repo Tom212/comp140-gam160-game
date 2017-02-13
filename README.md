@@ -6,7 +6,7 @@ Repository for Assignment 1 of COMP140-GAM160
   
   For my alt controller assessment I plan to develop a wave defence game where the player controls a tank which must defend an objective from waves of enemy forces. Aside from the core mechanics of the game it's important to note the added element of an alternative controller and its effect on gameplay. The player controls their vehicle using a bespoke, alternative controller. Using two wheels, they may incrementally control the slew and elevation of their turret. Having to manage these separately shall make target acquisition tactile but difficult. Movement also utilizes the controller with two levers controlling the forward movement of the left and right tank tracks. 
 
-	Aside from these points the format of gameplay is fairly simple, with the challenge and depth mostly stemming from the operation of the tank. Within the game there are enemy tanks, the player’s tank, a staging area for the spawning of enemies and a HQ zone which belongs to the player.
+Aside from these points the format of gameplay is fairly simple, with the challenge and depth mostly stemming from the operation of the tank. Within the game there are enemy tanks, the player’s tank, a staging area for the spawning of enemies and a HQ zone which belongs to the player.
 
 The player starts the game within their HQ, a zone which they must defend. They can move freely around the level. At game start enemies begin to spawn at the staging area, these are enemy tanks which move along a guided path to the enemy HQ. The enemies spawn in waves, their amount and delay are variable to difficulty. During movement they will attempt to fire at the player if they see them with limited accuracy.
 
