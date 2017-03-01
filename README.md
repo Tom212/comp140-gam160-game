@@ -1,9 +1,9 @@
 # comp140-gam160-game
 Repository for Assignment 1 of COMP140-GAM160
 	
-  TOM DANIELS - ALT CONTROLLER GAME PROPOSAL
+  # TOM DANIELS - ALT CONTROLLER GAME PROPOSAL
   
-  # Part A
+  ## Part A
   
   For my alt controller assessment I plan to develop a wave defence game where the player controls a tank which must defend an objective from waves of enemy forces. Aside from the core mechanics of the game it's important to note the added element of an alternative controller and its effect on gameplay. The player controls their vehicle using a bespoke, alternative controller. Using two wheels, they may incrementally control the slew and elevation of their turret. Having to manage these separately shall make target acquisition tactile but difficult. Movement also utilizes the controller with two levers controlling the forward movement of the left and right tank tracks. 
 
@@ -21,7 +21,7 @@ Visually the game is 3D with minimalistic graphics for a clean look. The player�
 
 Aside from these points of gameplay the application shall have a main menu for managing the selection of difficulty and starting a game as well as the option to quit. There will also be a pause menu available to the player during gameplay.
 
-# Part B
+## Part B
 
 My controller shall consist of four main pieces. Two of these shall be wheels, each will control an axis of movement for the player’s turret. One incrementing the elevation of the turret’s weapon up and down while another rotates the body of the turret changing the direction it faces. Besides these wheels there will be two levers, each control throttle which affects movement. Separately they apply forward movement to one track of the vehicle, tracks positioned on the left or right. The levers will have a range of motion from a vertical position to about 20 degrees forward and back. When fully forward the associated track will receive 100% throttle, when at full rear position it will supply 0% throttle. I would like to implement the possibility for reverse throttle at full rear, with 0% being at a center position instead but this shall be a stretch goal. The effect produced by this input will be that one lever forward and one back will turn the vehicle in the opposite direction of the forward lever, while both forward will create straight travel. 
 
@@ -31,8 +31,10 @@ To achieve functionality for the two wheels I’ve taken inspiration from two ex
 
 In similar fashion the two levers will be plastic joystick style poles which will bend forward and backwards, I will need to experiment with ways of creating the desired arc like movement as I cannot find examples of this being done in this context. I believe that I may be able to use a potentiometer with a slider element to track the forward and back movement of the levers. It will be important that the game is able to track the controller’s exact position within its range of forward and back as its input needs to be directly fixed to its physical position. This isn’t important for the wheels as they will simply increment turret rotation.
 
-Inventor, D. (no date) DIY homemade steering wheel USB PC with Viberation. Available at: http://www.instructables.com/id/DIY-Homemade-Steering-Wheel-USB-PC-with-Viberation/?ALLSTEPS (Accessed: 1 March 2017).
+### Bibliography/Research Materials
 
-Willekens, P. and Marsman, M. (2015) Blind car simulator. Available at: http://shakethatbutton.com/blind-car-simulator/ (Accessed: 1 March 2017).
+*Inventor, D. (no date) DIY homemade steering wheel USB PC with Viberation. Available at: http://www.instructables.com/id/DIY-Homemade-Steering-Wheel-USB-PC-with-Viberation/?ALLSTEPS (Accessed: 1 March 2017).
+
+Willekens, P. and Marsman, M. (2015) Blind car simulator. Available at: http://shakethatbutton.com/blind-car-simulator/ (Accessed: 1 March 2017).*
 
 
