@@ -1,9 +1,10 @@
 # comp140-gam160-game
 Repository for Assignment 1 of COMP140-GAM160
-	
-  # TOM DANIELS - ALT CONTROLLER GAME PROPOSAL
+
+
+# TOM DANIELS - ALT CONTROLLER GAME PROPOSAL
   
-  ## Part A
+## Part A
   
   For my alt controller assessment I plan to develop a wave defence game where the player controls a tank which must defend an objective from waves of enemy forces. Aside from the core mechanics of the game it's important to note the added element of an alternative controller and its effect on gameplay. The player controls their vehicle using a bespoke, alternative controller. Using two wheels, they may incrementally control the slew and elevation of their turret. Having to manage these separately shall make target acquisition tactile but difficult. Movement also utilizes the controller with two levers controlling the forward movement of the left and right tank tracks. 
 
