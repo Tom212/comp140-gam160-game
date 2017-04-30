@@ -1,8 +1,0 @@
-Sourced assets:
-
-Yughues Free Metal Materials - https://www.assetstore.unity3d.com/en/#!/content/12949
-Yughues Free Concrete Materials - https://www.assetstore.unity3d.com/en/#!/content/12951
-Yughues Free Ground Materials - https://www.assetstore.unity3d.com/en/#!/content/13001
-Yughues Free Rocks - https://www.assetstore.unity3d.com/en/#!/content/13568
-Simple UI Elements - https://www.assetstore.unity3d.com/en/#!/content/53276
-
